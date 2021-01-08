@@ -52,7 +52,7 @@ _output: dgl.graph_
 
 Construct and implement graph features into dgl.graph
 
-## GGNN(in_feats, out_feats, n_hidden, n_iter_readout): 
+### GGNN(in_feats, out_feats, n_hidden, n_iter_readout): 
 
 _CLASS_
 
